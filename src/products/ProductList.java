@@ -1,9 +1,10 @@
+package products;
+
 import java.util.HashSet;
 import java.util.Set;
 
 public class ProductList {
     private Set<Product> productList = new HashSet<>();
-
     public void addProduct(Product product) {
         if (!product.isCompleted()) {
             throw new RuntimeException("Товар имеет незаполненные поля. Исправьте это перед добавлением в список!");
