@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fde07e1-c4b1-4629-bb16-fbf8449d1041" name="Changes" comment="HW_Part1">
-      <change afterPath="$PROJECT_DIR$/src/SecondHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/Recipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/products/RecipeBook.java" afterDir="false" />
+    <list default="true" id="7fde07e1-c4b1-4629-bb16-fbf8449d1041" name="Changes" comment="HW_Part1+Part2.">
+      <change afterPath="$PROJECT_DIR$/src/GovermentStructure/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GovermentStructure/Passport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationExercise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationExercise/NumsForExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/products/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/products/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProductList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/products/ProductList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/randomNums/SecondHW.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +42,24 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Professional/IdeaProjects/FirstProject&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GovermentStructure.Main">
+    <configuration name="GovermentStructure.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GovermentStructure.Main" />
+      <module name="HW_Collection_HeshAndHeshFunction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GovermentStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="products.Main" />
       <module name="HW_Collection_HeshAndHeshFunction" />
@@ -54,8 +67,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MultiplicationExercise.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplicationExercise.Main" />
+      <module name="HW_Collection_HeshAndHeshFunction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultiplicationExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GovermentStructure.Main" />
+        <item itemvalue="Application.MultiplicationExercise.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -70,7 +98,8 @@
       <updated>1668073926299</updated>
       <workItem from="1668073928233" duration="7909000" />
       <workItem from="1668083079247" duration="4244000" />
-      <workItem from="1668172739717" duration="1216000" />
+      <workItem from="1668172739717" duration="7707000" />
+      <workItem from="1668223414968" duration="716000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1668081185482</created>
@@ -86,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668081235645</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HW_Part1+Part2.">
+      <created>1668180299316</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668180299316</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
     <MESSAGE value="HW_Part1" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW_Part1" />
+    <MESSAGE value="HW_Part1+Part2." />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_Part1+Part2." />
   </component>
 </project>
