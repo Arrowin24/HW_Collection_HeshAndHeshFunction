@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fde07e1-c4b1-4629-bb16-fbf8449d1041" name="Changes" comment="HW_Part1+Part2.">
-      <change afterPath="$PROJECT_DIR$/src/GovermentStructure/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GovermentStructure/Passport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiplicationExercise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiplicationExercise/NumsForExercise.java" afterDir="false" />
+    <list default="true" id="7fde07e1-c4b1-4629-bb16-fbf8449d1041" name="Changes" comment="HW_Part1+Part2+Part3.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/randomNums/SecondHW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/products/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/products/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/products/Recipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/products/Recipe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="HW_Solution" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,15 +35,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Professional/IdeaProjects/FirstProject&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Professional/IdeaProjects/HW_Collection_HeshAndHeshFunction"
   }
-}</component>
-  <component name="RunManager" selected="Application.GovermentStructure.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="GovermentStructure.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GovermentStructure.Main" />
       <module name="HW_Collection_HeshAndHeshFunction" />
@@ -82,9 +79,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.GovermentStructure.Main" />
         <item itemvalue="Application.MultiplicationExercise.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +96,8 @@
       <workItem from="1668073928233" duration="7909000" />
       <workItem from="1668083079247" duration="4244000" />
       <workItem from="1668172739717" duration="7707000" />
-      <workItem from="1668223414968" duration="716000" />
+      <workItem from="1668223414968" duration="830000" />
+      <workItem from="1668439598522" duration="863000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1668081185482</created>
@@ -122,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668180299316</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HW_Part1+Part2+Part3.">
+      <created>1668231353333</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668231353333</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +148,7 @@
     <MESSAGE value="Commit" />
     <MESSAGE value="HW_Part1" />
     <MESSAGE value="HW_Part1+Part2." />
-    <option name="LAST_COMMIT_MESSAGE" value="HW_Part1+Part2." />
+    <MESSAGE value="HW_Part1+Part2+Part3." />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_Part1+Part2+Part3." />
   </component>
 </project>
