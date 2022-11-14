@@ -26,7 +26,7 @@ public class Main {
 
         //Проверка второго домашнего задания ч. 1.
         Recipe breakfast = new Recipe("Breakfast", productList.getProductList());
-        breakfast.addProduct(banana,3);
+        breakfast.addProduct(banana, 2);
         Recipe lunch = new Recipe("Lunch", productList.getProductList());
         RecipeBook recipeBook = new RecipeBook();
         recipeBook.addRecipe(breakfast);
